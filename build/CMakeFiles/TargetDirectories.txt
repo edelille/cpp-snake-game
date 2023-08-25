@@ -1,0 +1,9 @@
+/home/ellie/git/personal/cpp-prototype-repo/build/CMakeFiles/main.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/CMakeFiles/edit_cache.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/CMakeFiles/rebuild_cache.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/httplib/CMakeFiles/httplib.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/httplib/CMakeFiles/edit_cache.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/httplib/CMakeFiles/rebuild_cache.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/jsonlib/CMakeFiles/jsonlib.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/jsonlib/CMakeFiles/edit_cache.dir
+/home/ellie/git/personal/cpp-prototype-repo/build/jsonlib/CMakeFiles/rebuild_cache.dir
